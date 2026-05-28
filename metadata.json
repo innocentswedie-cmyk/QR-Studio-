@@ -1,0 +1,6 @@
+{
+  "name": "App QR Code Studio",
+  "description": "Smart QR code generation, design customization, and multi-device camera scanning optimized for mobile app downloads and universal redirect links.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
